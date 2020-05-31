@@ -1,0 +1,3 @@
+public/static/build/*.js
+webpack.config.js
+server.js
